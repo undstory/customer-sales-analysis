@@ -87,12 +87,11 @@ The second page focuses on customer characteristics and returns, including:
 ## Dataset
 
 The dataset used in this project was obtained from **Kaggle**.
+The original dataset is not included in this repository due to file size.
 
 - **Dataset:** [Retail Case Study](https://www.kaggle.com/datasets/rishikumarrajvansh/retail-case-study/data)
 - **Source:** Kaggle
 - **License:** Apache License 2.0
-
-The dataset is included in the `data/` folder in accordance with the applicable license terms.
 
 ## Limitations
 
@@ -100,7 +99,7 @@ The dataset contains coded geographic information (`city_code`) rather than actu
 
 The analysis focuses on the information available in the dataset and does not include external demographic or geographic data.
 
-##  Project Purpose
+## Project Purpose
 
 This project was created as a portfolio project to demonstrate practical skills in:
 
