@@ -86,9 +86,13 @@ The second page focuses on customer characteristics and returns, including:
 
 ## Dataset
 
-The dataset used in this project is distributed under the **Apache License 2.0**.
+The dataset used in this project was obtained from **Kaggle**.
 
-The original dataset and its licensing terms should be consulted for information about the source and permitted use.
+- **Dataset:** [Retail Case Study](https://www.kaggle.com/datasets/rishikumarrajvansh/retail-case-study/data)
+- **Source:** Kaggle
+- **License:** Apache License 2.0
+
+The dataset is included in the `data/` folder in accordance with the applicable license terms.
 
 ## Limitations
 
