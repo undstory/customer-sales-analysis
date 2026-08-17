@@ -78,7 +78,6 @@ The second page focuses on customer characteristics and returns, including:
 
 ## Repository Structure
 
-- `data/` – dataset and related files
 - `powerbi/` – Power BI report
 - `screenshots/` – dashboard screenshots
 - `documentation/` – detailed project documentation and analysis
