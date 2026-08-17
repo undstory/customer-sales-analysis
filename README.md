@@ -51,7 +51,7 @@ The first page provides an overview of sales performance, including:
 - Sales by Product Category
 - Sales by Store Type
 
-![Sales Overview](screenshots/Sales_analysys.png)
+![Sales Overview](screenshots/Sales_analysis.png)
 
 ### 2. Customer Analysis
 
@@ -64,7 +64,7 @@ The second page focuses on customer characteristics and returns, including:
 - Return Value Rate
 - Return Quantity Rate
 
-![Customer Analysis](screenshots/Customer_analysys.png)
+![Customer Analysis](screenshots/Customer_analysis.png)
 
 ## 🔎 Key Insights
 
