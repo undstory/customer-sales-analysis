@@ -66,7 +66,7 @@ The second page focuses on customer characteristics and returns, including:
 
 ![Customer Analysis](screenshots/Customer_analysis.png)
 
-## 🔎 Key Insights
+## Key Insights
 
 - **E-shop** generated the highest sales, accounting for approximately **40.81% of total sales**.
 - **Books** generated the highest sales among product categories.
